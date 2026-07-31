@@ -207,6 +207,30 @@ Agent 可自主调用，按域分组：
 
 ---
 
+## 🖼 操作实例
+
+![操作实例 01](report_assets/demo/01.png)
+![操作实例 02](report_assets/demo/02.png)
+![操作实例 03](report_assets/demo/03.png)
+![操作实例 04](report_assets/demo/04.png)
+![操作实例 05](report_assets/demo/05.png)
+![操作实例 06](report_assets/demo/06.png)
+![操作实例 07](report_assets/demo/07.png)
+![操作实例 08](report_assets/demo/08.png)
+![操作实例 09](report_assets/demo/09.png)
+![操作实例 10](report_assets/demo/10.png)
+![操作实例 11](report_assets/demo/11.png)
+![操作实例 12](report_assets/demo/12.png)
+![操作实例 13](report_assets/demo/13.png)
+![操作实例 14](report_assets/demo/14.png)
+![操作实例 15](report_assets/demo/15.png)
+![操作实例 16](report_assets/demo/16.png)
+![操作实例 17](report_assets/demo/17.png)
+![操作实例 18](report_assets/demo/18.png)
+![操作实例 19](report_assets/demo/19.png)
+
+---
+
 ## 📦 数据持久化说明
 
 | 内容 | 是否持久化 | 位置 |
